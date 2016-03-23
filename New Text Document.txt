@@ -1,0 +1,3 @@
+http://localhost/phpmyadmin/server_privileges.php?db=&token=b00f88c02dbdec1c78b0f19126600360&viewing_mode=server
+
+http://localhost:8888/FCISquare/
